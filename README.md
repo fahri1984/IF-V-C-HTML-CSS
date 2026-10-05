@@ -2,7 +2,22 @@
 Master the Building Blocks of the Web
 
 ---
-
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Age</th>
+            <th>City</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>John</td>
+            <td>25</td>
+            <td>New York</td>
+        </tr>
+    </tbody>
+</table>
 ## 🚀 What is HTML?
 **HTML (HyperText Markup Language)** is the standard markup language for creating web pages. Think of it as the skeleton or foundation of every website you visit.
 
